@@ -1,2 +1,4 @@
-//For starters, I did this code on code.org App Lab and nothing happened
-//more code will come
+while(true){
+  document.write("Spam is good!");
+  document.write("You can stop this by typing ctrl+c");
+}
